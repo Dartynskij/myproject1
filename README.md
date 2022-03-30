@@ -1,1 +1,1 @@
-# my first repizitory
+# my first repisitory
